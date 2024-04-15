@@ -1,3 +1,5 @@
 Triple R Resolusi
 - Konsisten untuk belajar pemrograman
 - Membuat Forum Diskusi
+- Membuat aplikasi full stack dengan laravel
+- Meneruskan Content Di You Tube
